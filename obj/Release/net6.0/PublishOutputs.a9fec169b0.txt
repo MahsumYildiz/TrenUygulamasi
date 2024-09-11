@@ -1,0 +1,11 @@
+C:\Users\90534\Desktop\C# Dersleri\TrenRezervasyon\publish\TrenRezervasyon.exe
+C:\Users\90534\Desktop\C# Dersleri\TrenRezervasyon\publish\appsettings.Development.json
+C:\Users\90534\Desktop\C# Dersleri\TrenRezervasyon\publish\appsettings.json
+C:\Users\90534\Desktop\C# Dersleri\TrenRezervasyon\publish\TrenRezervasyon.dll
+C:\Users\90534\Desktop\C# Dersleri\TrenRezervasyon\publish\TrenRezervasyon.deps.json
+C:\Users\90534\Desktop\C# Dersleri\TrenRezervasyon\publish\TrenRezervasyon.runtimeconfig.json
+C:\Users\90534\Desktop\C# Dersleri\TrenRezervasyon\publish\TrenRezervasyon.pdb
+C:\Users\90534\Desktop\C# Dersleri\TrenRezervasyon\publish\Microsoft.OpenApi.dll
+C:\Users\90534\Desktop\C# Dersleri\TrenRezervasyon\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\90534\Desktop\C# Dersleri\TrenRezervasyon\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\90534\Desktop\C# Dersleri\TrenRezervasyon\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

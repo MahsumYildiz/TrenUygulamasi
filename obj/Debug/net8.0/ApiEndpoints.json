@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "TrenRezervasyon.Controllers.RezervasyonController",
+    "Method": "RezervasyonYap",
+    "RelativePath": "Rezervasyon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TrenRezervasyon.Models.RezervasyonRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TrenRezervasyon.Models.RezervasyonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
