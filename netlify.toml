@@ -1,3 +1,8 @@
+[build]
+  base = ""
+  publish = "bin/Release/net6.0/publish"
+  command = "dotnet publish -c Release -o ./bin/Release/net6.0/publish"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
